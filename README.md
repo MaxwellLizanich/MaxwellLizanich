@@ -4,7 +4,7 @@ Hi, I'm Max (He/Him). I'm a Data Analyst with experience in SQL, Excel, and Tabl
 
 ## Projects
 
-Welcome to my portfolio, where I showcase my projects. 
+Welcome to my portfolio, where I showcase my [projects.](https://github.com/MaxwellLizanich/Portfolio)
 
 ## Connect with Me!
 
